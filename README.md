@@ -5,6 +5,7 @@ Character Shortcuts
 
 | Character | Description | Shortcut | HTML |
 | --------- | ----------- | -------- | ---- |
+|   | Nonbreaking space | <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>&nbsp;&nbsp;&nbsp;&nbsp;</kbd> | &amp;nbsp; |
 | ‘ | Open­ing sin­gle quote | <kbd>⌥</kbd> <kbd>]</kbd> | &amp;lsquo; |
 | ’ | Clos­ing sin­gle quote (or apostrophe) | <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>]</kbd> | &amp;rsquo; |
 | “ | Opening double quote | <kbd>⌥</kbd> <kbd>[</kbd> | &amp;ldquo; |
@@ -17,8 +18,3 @@ Character Shortcuts
 | ™ | Trademark | <kbd>⌥</kbd> <kbd>2</kbd> | &amp;trade; |
 | ® | Registered trademark | <kbd>⌥</kbd> <kbd>R</kbd> | &amp;reg; |
 | © | Copyright | <kbd>⌥</kbd> <kbd>G</kbd> | &amp;copy; |
-
-### Accented Characters
-
-| Character | Shortcut | HTML |
-| --------- | -------- | ---- |
