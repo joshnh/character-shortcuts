@@ -12,7 +12,7 @@ Character Shortcuts
 | ” | Clos­ing double quote | <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>[</kbd> | &amp;rdquo; |
 | – | En dash | <kbd>⌥</kbd> <kbd>-</kbd> | &amp;ndash; |
 | — | Em dash | <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>-</kbd> | &amp;mdash; |
-| … | Ellipsis | <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>;</kbd> | &amp;hellip; |
+| … | Ellipsis | <kbd>⌥</kbd> <kbd>;</kbd> | &amp;hellip; |
 | § | Section sign | <kbd>⌥</kbd> <kbd>6</kbd> | &amp;sect; |
 | ¶ | Pilcrow | <kbd>⌥</kbd> <kbd>7</kbd> | &amp;para; |
 | ™ | Trademark | <kbd>⌥</kbd> <kbd>2</kbd> | &amp;trade; |
