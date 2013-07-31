@@ -1,6 +1,8 @@
 Character Shortcuts
 ===================
 
+### Standard Characters
+
 | Character | Description | Shortcut | HTML |
 | --------- | ----------- | -------- | ---- |
 | ‘ | Open­ing sin­gle quote | <kbd>⌥</kbd> <kbd>]</kbd> | &amp;lsquo; |
@@ -15,3 +17,8 @@ Character Shortcuts
 | ™ | Trademark | <kbd>⌥</kbd> <kbd>2</kbd> | &amp;trade; |
 | ® | Registered trademark | <kbd>⌥</kbd> <kbd>R</kbd> | &amp;reg; |
 | © | Copyright | <kbd>⌥</kbd> <kbd>G</kbd> | &amp;copy; |
+
+### Accented Characters
+
+| Character | Shortcut | HTML |
+| --------- | -------- | ---- |
